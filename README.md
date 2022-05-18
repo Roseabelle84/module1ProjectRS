@@ -2,6 +2,10 @@
 
 ![Screenshot (61)](https://user-images.githubusercontent.com/103977896/169149262-8ee245e5-ed7f-45eb-875e-6ad3c02b903d.png)
 # Horiseon
+## Consumers can find you're website quicker with the Horiseon services.
+## Also will protect companies reviews online.
+## Then promote your business on social media websites.
+
 
 ## Purpose!
 
@@ -15,8 +19,7 @@
 * CSS
 
 ## Website
-https://github.com/Roseabelle84/module1ProjectRS/blob/main/index.html
-file:///C:/Users/rosea/Desktop/code/module1ProjectRS/index.html
+https://roseabelle84.github.io/module1ProjectRS/
 
 ## Contribution
  
