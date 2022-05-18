@@ -1,9 +1,11 @@
-![Screenshot (37)](https://user-images.githubusercontent.com/103977896/168450663-499f89dc-9790-4d53-b7b6-e504c27760c7.png)
-![Screenshot (36)](https://user-images.githubusercontent.com/103977896/168450672-cd98077e-2b1f-4061-a579-bf489a72e60b.png)
 
+Projects
+![Screenshot (61)](https://user-images.githubusercontent.com/103977896/169149262-8ee245e5-ed7f-45eb-875e-6ad3c02b903d.png)
+[Screenshot (59)](https://user-images.githubusercontent.com/103977896/169149069-a5d25cb3-39fc-4544-8234-b0f85be4852d.png)
 # Horiseon
 
-## Purpose
+## Purpose!
+
 * Search Engine Optimization 
 * Online Reputation Management
 * Social Media Marketing
